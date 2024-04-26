@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.590fafd189b435e714db6c817105c48e?rik=QmH8fyc0lEx0Ew&pid=ImgRaw&r=0)]
+
 <h1 align="center">Hi 👋, I'm Rajendra Pantha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.codechef.com/images/home/coding_boy.svg">
