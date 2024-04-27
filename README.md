@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendra-pantha&label=Profile%20views&color=0e75b6&style=flat" alt="rajendra-pantha" /> </p>
 
-- 🌱 I’m currently learning **React, Jest, Node**
+- 🌱 I’m currently learning **Jest, Node**
 
 - 💬 Ask me about **Javascript, React**
 
